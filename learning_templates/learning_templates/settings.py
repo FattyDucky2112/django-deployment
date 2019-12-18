@@ -26,7 +26,7 @@ SECRET_KEY = 'e@auh8w0y_w^-xn55whjcwl&ti94d94)e206%79g-@4l$of#bo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["fattyducky.pythonanywhere.com"]
 
 
 # Application definition
